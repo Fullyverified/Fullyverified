@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fullyverified
 - 👀 I’m interested in software and hardware.
-                - flightsims, audiophile gear.
+                - as well as flightsims, audiophile gear.
 - 🌱 I’m currently studying Computer Science at Flinders University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
