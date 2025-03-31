@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fullyverified (Harry)
-- 👀 I’m interested in software and hardware.
+- 👀 I’m interested in software and hardware.  
                 - as well as flightsims, audiophile gear.  
                 - I'm building a path tracer as a personal project.
 - 🌱 I’m currently studying Computer Science at Flinders University.
